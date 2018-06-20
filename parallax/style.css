@@ -1,0 +1,58 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.parallax {
+    background-image: url("imagenes/tiburon2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.parallax2{
+    background-image: url("imagenes/tiburon1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45%;
+    
+}
+.parallax3 {
+    background-image: url("imagenes/tiburon3.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.parallax4 {
+    background-image: url("https://wallpaperstock.net/gatos-grandes-001-wallpapers_11165_1280x800.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.parallax5 {
+    background-image: url("http://www.sorocard.com.br/ES/upload/produtos/276399_Papel-de-Parede-Tigres-Engracados-Colecao-Grandes-Gatos_2048x1536.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+h1{
+    margin: 0;
+}
+#app{
+    padding-left: 300px;
+    padding-top: 76px;
+}
+
+
+
+
